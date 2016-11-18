@@ -1,0 +1,37 @@
+Name: Danish Hussain
+P-Number: P14181072
+Email: dannyh_786@hotmail.co.uk
+Date: 2016-10-08
+Course: Computer Science
+
+Selected Modules: 
+
+Module Code: CTEC3903 Credits: 15
+Mandatory on course? : true
+Module Name: Software Development Methods
+
+Module Code: IMAT3451 Credits: 30
+Mandatory on course? : true
+Module Name: Computing Project
+
+Module Code: CTEC3110 Credits: 15
+Mandatory on course? : false
+Module Name: Secure Web Application Development
+
+Module Code: CTEC3426 Credits: 15
+Mandatory on course? : false
+Module Name: Telematics
+
+Module Code: IMAT3404 Credits: 15
+Mandatory on course? : false
+Module Name: Mobile Robotics
+
+Module Code: IMAT3406 Credits: 15
+Mandatory on course? : false
+Module Name: Fuzzy Logic and Knowledge Based Systems
+
+Module Code: IMAT3429 Credits: 15
+Mandatory on course? : false
+Module Name: Privacy and Data Protection
+
+
